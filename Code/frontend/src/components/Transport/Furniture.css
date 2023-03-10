@@ -1,0 +1,170 @@
+h2.form-title {
+    border: 5px outset red;
+    background-color: black;
+    text-align: center;
+  }
+
+.container{
+  height: auto;
+  align-content:center;
+  }
+
+.card{
+  height: 550px;
+margin-top: 100px;
+margin-bottom: 130px;
+width: 400px;
+background-color: rgba(0,0,0,0.5) !important;
+border-radius: 15px;
+}
+
+.card1{
+  height: 710px;
+margin-top: 100px;
+margin-bottom: 130px;
+width: 450px;
+background-color: rgba(0,0,0,0.5) !important;
+border-radius: 15px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+.card2{
+  height: 610px;
+margin-top: 80px;
+margin-bottom: 130px;
+width: 450px;
+background-color: rgba(0,0,0,0.5) !important;
+border-radius: 15px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+.card3{
+  height: 780px;
+margin-top: 80px;
+margin-bottom: 130px;
+width: 450px;
+background-color: rgba(0,0,0,0.5) !important;
+border-radius: 15px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+.card-header h2{
+  color: #FFC312;
+  text-align: center;
+  }
+ 
+
+.body{
+  background-image: url('../Img/Untitled.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.input-group-prepend span{
+  width: 50px;
+  background-color: #FFC312;
+  color: black;
+  border:0 !important;
+  height: 40px;
+  }
+  
+  .footer{
+    overflow: hidden;
+   background-color: rgba(0,0,0,0.5) !important;
+   padding: 7px 10px;
+  } 
+
+  .fa-facebook{
+    background: #3B5998;
+    color: white;
+    float:right;
+    padding: 15px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    float:right;
+    padding: 15px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    float:right;
+    padding: 15px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+    float:right;
+    padding: 15px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    
+  }
+  
+  .fa:hover {
+    color: #000000;
+    background-color: #ffffff;
+    border: 1px solid #000;
+  }
+.table tr:hover{
+  background-color: #ebb9bb;
+}
+
+.table tr{
+  background-color: #ffffff;
+}
+
+.table td{
+  font-size: 18px;
+  border-color: #000;
+  font-family: 'Times New Roman';
+}
+
+.table td, .table th{
+  text-align: center;
+  font-weight: 600;
+}
+
+.table .thead-dark th{
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+  background-color: black;
+}
+
+.img{
+  height: 677px;
+  background-size: cover;
+}
+
+.form-label{
+  color: white;
+}
+
+
+
+
+
